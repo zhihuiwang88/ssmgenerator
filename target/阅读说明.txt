@@ -1,0 +1,22 @@
+
+
+1)访问路径
+http://localhost:8081/ssmgenerator/scholastic/selectAll
+
+2)使用技术框架
+spring + springMVC + mybatis(Mybatis-Generator)
+
+3)今日头条
+https://www.toutiao.com/c/user/6207413939/#mid=6221726777
+
+
+4）WeChat：NHNMAMTF
+
+
+
+
+
+
+
+
+
